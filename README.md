@@ -20,6 +20,5 @@ Feel free to:
 
 Star this repository to stay updated on the latest additions.
 Fork the code and play around with the examples.
-Contribute your own projects and knowledge to the community.
 
 Let's build something amazing together!
